@@ -1,4 +1,6 @@
-# Hotel Offers Management System
+.
+
+> # Hotel Offers Management System
 
 ## Overview
 The Hotel Offers Management System is a web application that allows users to manage hotel offers. Users can register, log in, create, edit, and delete their hotel offers. The application provides a user-friendly interface for both guests and registered users to view available offers.
